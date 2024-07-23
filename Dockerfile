@@ -1,1 +1,1 @@
-FROM shivanshu1333/k8s-dra-driver:v0.1.0
+FROM ghcr.io/nvidia/k8s-dra-driver:77d3dd2a-ubuntu20.04
